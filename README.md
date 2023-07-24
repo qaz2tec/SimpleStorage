@@ -7,13 +7,13 @@ Required Tools:
  
 2. Install the Metamask extension in your browser, create a random account, and acquire some testnet Ethereum from the Sepolia faucet (https://sepoliafaucet.com/) to deploy the smart contract on the testnet.
 
-Testnet: Sepolia
-Faucet link: https://sepoliafaucet.com/
+- Testnet: Sepolia
+- Faucet link: https://sepoliafaucet.com/
 
 3. Obtain access to a node API link from Alchemy website (https://www.alchemy.com/) to facilitate your transactions.
 
 4. A dapp consists of three key components:
  
-Frontend
-Backend - Smart contract
-Connecting library - ether.js or web3.js
+1. Frontend
+2. Backend - Smart contract
+3. Connecting library - ether.js or web3.js

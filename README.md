@@ -17,3 +17,5 @@ Required Tools:
 - Frontend
 - Backend - Smart contract
 - Connecting library - ether.js or web3.js
+
+5. To compile and deploy the smart contract, you can utilize the Remix IDE, a smart contract development environment - link - https://remix.ethereum.org/

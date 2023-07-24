@@ -14,6 +14,6 @@ Required Tools:
 
 4. A dapp consists of three key components:
  
-1. Frontend
-2. Backend - Smart contract
-3. Connecting library - ether.js or web3.js
+- Frontend
+- Backend - Smart contract
+- Connecting library - ether.js or web3.js
